@@ -81,3 +81,11 @@ python app.py
 4. Open your browser and go to:
 
 http://127.0.0.1:5000
+
+---
+
+## 📷 Sample Output
+
+Below is a sample prediction result from the deployed web app:
+
+![Prediction Output](diabetes_prediction_result.png)
