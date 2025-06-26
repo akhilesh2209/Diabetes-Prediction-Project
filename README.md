@@ -1,5 +1,18 @@
 # 🧠 Diabetes Prediction Project (CodTech Internship - Task 3)
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: WUNA AKHILESH
+
+*INTERN ID*: CT04DF985
+
+*DOMAIN*: DATA SCIENCE
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH KUMAR
+
+
 ## ✅ Objective
 Develop an **end-to-end data science project** for **Diabetes Prediction**, covering everything from data preprocessing to deployment using **Flask**.
 
